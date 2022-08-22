@@ -1,0 +1,12 @@
+reset;
+
+model main.mod;
+
+#data dane_1.dat; # pe³en tydzieñ, number_of_days = 7
+data main.dat;  # mniejsze dane, number_of_days = 3
+ 
+option solver cplex;
+solve;
+
+
+display schedule, points,all_shifts_matrix;

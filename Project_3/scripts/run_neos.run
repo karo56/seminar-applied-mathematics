@@ -1,0 +1,3 @@
+solve;
+
+display schedule, points,all_shifts_matrix;
