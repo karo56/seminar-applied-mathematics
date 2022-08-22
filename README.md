@@ -1,4 +1,4 @@
-# Seminar applied mathematics
+## Seminar applied mathematics
 
 
 The repository contains interesting projects in which I participated during the "applied mathematics" semianrium. The purpose of the seminar was to allow students to create projects for external companies. Each project was created in groups of 3-4 people.
